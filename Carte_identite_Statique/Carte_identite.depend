@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1549359934 source:d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vue.h"
+	"inscription.h"
+
+1549293547 d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\vue.h
+	<stdio.h>
+	<stdlib.h>
+
+1549359809 source:d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\inscription.c
+	<stdio.h>
+	<stdlib.h>
+	"inscription.h"
+
+1549358188 d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\inscription.h
+	<stdio.h>
+	<stdlib.h>
+
+1549359364 source:d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\vue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549451053 source:d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\carte_identite_statique\inscription.c
+	<stdio.h>
+	<stdlib.h>
+	"inscription.h"
+
+1549358188 d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\carte_identite_statique\inscription.h
+	<stdio.h>
+	<stdlib.h>
+
+1549450445 source:d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\carte_identite_statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vue.h"
+	"inscription.h"
+
+1549293547 d:\users\hikaru\documents\ludus\programs\f21\codeblocks\carte_identite\carte_identite_statique\vue.h
+	<stdio.h>
+	<stdlib.h>
+

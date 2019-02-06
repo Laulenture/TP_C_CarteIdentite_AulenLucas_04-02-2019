@@ -1,0 +1,72 @@
+
+Client 1
+banane
+Aulen
+Lucas
+4 rue des pensees
+68540
+Bollwiller
+
+Client 2
+patate
+Abrai
+Brayan
+Pi rue du sel
+67000
+Strasbourg
+
+Client 3
+pas
+tres
+charlie
+10 rue nicolas-appert
+75011
+Paris
+
+Client 4
+courgette
+Gerges
+Celine
+42 avenue Lehmann
+67000
+Strasbourg
+
+Client 5
+choucrouttSmith
+Smith
+John
+Tardis
+00000
+Retardis
+
+Client 6
+CibouletteLePen
+LePen
+Jean-Marie
+1488 rue de Marine
+69420
+Berlin
+
+Client 7
+Jesus
+Christ
+Patrick
+Heaven
+00000
+N/A
+
+Client 8
+Moi
+Toi
+Plus tous ce qui le veulent
+idk
+-1
+irdk
+
+Client 9
+Raviolli
+raviolli
+gimme your spagetti
+42 nowhere street
+9000
+nowhere
